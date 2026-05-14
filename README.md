@@ -1,4 +1,4 @@
-# GhostLock DESTROYER
+# GhostLock BUSTER
 
 [find_and_kick_smb_holder.ps1](/Users/spartan/codex/ghostlock_guard/find_and_kick_smb_holder.ps1) lists SMB sessions holding matching files and can close those sessions.
 
